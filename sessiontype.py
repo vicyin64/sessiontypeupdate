@@ -1,7 +1,7 @@
 import requests
 
 # Step 1: Replace 'YOUR_ACCESS_TOKEN' with your actual Webex access token
-access_token = 'YOU_ACCESS_TOKEN'
+access_token = 'YOUR_ACCESS_TOKEN'
 headers = {
     'Authorization': f'Bearer {access_token}',
     'Content-Type': 'application/json'
